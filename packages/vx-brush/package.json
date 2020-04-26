@@ -64,7 +64,7 @@
   },
   "dependencies": {
     "classnames": "^2.2.5",
-    "recompose": "^0.23.1"
+    "recompose": "^0.30.0"
   },
   "jest": {
     "setupFiles": [
